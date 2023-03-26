@@ -1,0 +1,14 @@
+{
+  "name": "Ejercicio-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "logplease": "^1.2.15"
+  }
+}
